@@ -1,0 +1,11 @@
+{
+  "name": "testingExample",
+  "version": "1.0.0",
+  "description": "Contrived testing example to demonstrate issues",
+  "scripts": {
+    "start": "fan build.fan && fant testingExample"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
